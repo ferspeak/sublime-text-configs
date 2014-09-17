@@ -1,0 +1,20 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Dracula Color Scheme",
+		"Emmet",
+		"MarkdownEditing",
+		"Package Control",
+		"Placeholders",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"Syntax Highlighting for Sass",
+		"Theme - Spacegray",
+		"Twig",
+		"WordPress"
+	]
+}
