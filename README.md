@@ -5,4 +5,5 @@
 
 ## Preferences
 
+<code>Preferences.sublime-settings</code> Contains preferences. <br>
 Preferences > Settings - User
